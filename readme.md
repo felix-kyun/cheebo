@@ -9,7 +9,8 @@ _A 42 key handwired, diodeless, aggressively column staggered, splayed, ergonomi
 -   [Plate and Case Model](https://cad.onshape.com/documents/d629d05c6ab4ceb50aa5ccc0/w/f011758026d3b82147f3d326/e/3afc35aa885c8655b5dc0660)
 -  [Gallery](https://github.com/Felix-Kyun/cheebo/blob/master/gallery.md)
 
-Before building clone this repo to vial-qmk repo inside the keyboard folder
+Before building, clone this repo to vial-qmk repo inside the keyboard folder.
+
 Make example for this keyboard (after setting up your build environment):
 
     make cheebo:vial
