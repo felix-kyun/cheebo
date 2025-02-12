@@ -1,8 +1,8 @@
 # cheebo
 
-<center>![cheebo](https://github.com//cheebo/blob/[branch]/image.jpg?raw=true)</center>
+![cheebo](https://github.com/Felix-Kyun/cheebo/blob/master/assets/banner.png?raw=true)
 
-_A Splayed Ortholinear Column Staggered Diode-less Split Keyboard_
+_A 42 key handwired, diodeless, aggressively column staggered, splayed, ergonomic mechnical split keyboard_
 
 -   Keyboard Maintainer: [Praise Jacob](https://github.com/Felix-Kyun)
 -   Hardware Supported: _Pi pico_
@@ -23,3 +23,8 @@ Enter the bootloader in 3 ways:
 
 -   **BOOTSEL**: Hold down the bootsel button on pi pico while pluggin in the keyboard
 -   **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
+
+## Special Thanks
+
+-   [piantor](https://github.com/beekeeb/piantor)
+-   [hillside](https://github.com/mmccoyd/hillside)
