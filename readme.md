@@ -6,6 +6,7 @@ _A 42 key handwired, diodeless, aggressively column staggered, splayed, ergonomi
 
 -   Keyboard Maintainer: [Praise Jacob](https://github.com/Felix-Kyun)
 -   Hardware Supported: _Pi pico_
+-   [Plate and Case Model](https://cad.onshape.com/documents/d629d05c6ab4ceb50aa5ccc0/w/f011758026d3b82147f3d326/e/3afc35aa885c8655b5dc0660)
 -  [Gallery](https://github.com/Felix-Kyun/cheebo/blob/master/gallery.md)
 
 Make example for this keyboard (after setting up your build environment):
