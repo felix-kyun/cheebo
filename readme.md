@@ -7,6 +7,8 @@ _A 42 key handwired, diodeless, aggressively column staggered, splayed, ergonomi
 -   Keyboard Maintainer: [Praise Jacob](https://github.com/Felix-Kyun)
 -   Hardware Supported: _Pi pico_
 
+## [gallery](https://github.com/Felix-Kyun/cheebo/blob/master/gallery.md)
+
 Make example for this keyboard (after setting up your build environment):
 
     make cheebo:vial
